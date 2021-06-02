@@ -1,0 +1,19 @@
+#submitButton{
+    margin-top: 20px;
+    margin-bottom:20px;
+    }
+        
+    
+    input{
+    margin: 10px;
+
+        }
+    body{
+        background-color: aqua;
+    }
+    #show{
+        display:none;
+    }
+   #appi{
+       display: none;
+   }
